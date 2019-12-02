@@ -38,11 +38,14 @@ Following table is will give it a meaning for each file.
 
 File | Description |
 ---- | ----------- |
-README.md | A descriptive file to give an introduction of this project. |
-LICENCE | The licence of the file that every project should have.
+README.md ** | A descriptive file to give an introduction of current project/ assignment. 
+Instructions.md ** | A copy of current README.md file. 
+LICENCE ** | The licence of the file that every project should have.
 .gitignore | The file to control which files should be ignored by Git.
+*.py | Any python file you would use for your assignments
+*.ipynb | Any Jupyter Notebook file that you may use for assignments
 
-Every project needs to have these files. It is a good practice to keep them with your project.
+** Every project/ assignment needs to have these files. It is a good practice to keep them with your project.
 
 ## How to Upload Assignments
 
